@@ -37,7 +37,7 @@ Calcicon is a versatile Flutter application that integrates a calculator and uni
 
 ## Firebase Deployment
 
-The app is deployed on Firebase, ensuring robust backend support and real-time database functionalities. Access the web app using the link [Calcicon](https://calcicon.web.app/)
+The app is deployed on Firebase, ensuring easy access on any web brower and any device. Access the web app using the link [Calcicon](https://calcicon.web.app/)!
 
 ## Screenshots
 
